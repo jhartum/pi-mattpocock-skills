@@ -10,6 +10,8 @@
 
 # Skills For Real Engineers
 
+> **Unofficial Pi package.** Install with `pi install git:github.com/jhartum/pi-mattpocock-skills`. Only the `engineering` and `productivity` skills are loaded.
+
 [![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)
 
 My agent skills that I use every day to do real engineering - not vibe coding.

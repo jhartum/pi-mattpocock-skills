@@ -1,11 +1,11 @@
 {
-  "name": "mattpocock-skills",
+  "name": "pi-mattpocock-skills",
   "version": "1.1.0",
   "private": true,
-  "description": "Matt Pocock's agent skills for real engineering",
+  "description": "Matt Pocock's agent skills packaged for Pi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattpocock/skills"
+    "url": "https://github.com/jhartum/pi-mattpocock-skills"
   },
   "license": "MIT",
   "scripts": {
@@ -16,5 +16,11 @@
     "@changesets/changelog-github": "^0.7.0",
     "@changesets/cli": "^2.30.0"
   },
-  "packageManager": "npm@10.9.4"
+  "packageManager": "npm@10.9.4",
+  "pi": {
+    "skills": [
+      "./skills/engineering",
+      "./skills/productivity"
+    ]
+  }
 }
