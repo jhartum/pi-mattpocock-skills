@@ -19,8 +19,8 @@
   "packageManager": "npm@10.9.4",
   "pi": {
     "skills": [
-      "./skills/engineering",
-      "./skills/productivity"
+      "./skills/engineering/*/SKILL.md",
+      "./skills/productivity/*/SKILL.md"
     ]
   }
 }
