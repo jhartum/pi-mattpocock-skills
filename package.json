@@ -21,7 +21,8 @@
   "pi": {
     "skills": [
       "./skills/engineering/*/SKILL.md",
-      "./skills/productivity/*/SKILL.md"
+      "./skills/productivity/*/SKILL.md",
+      "./skills/in-progress/*/SKILL.md"
     ]
   }
 }
